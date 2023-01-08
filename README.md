@@ -3,7 +3,7 @@
 
 👋🏾 Hi, this is Brandon, a backend developer
 
-🌱 Currently active in organization [CeranaTeam](https://github.com/CeranaTeam)****
+🌱 Currently active in organization [CeranaTeam](https://github.com/CeranaTeam)
 
 🔭 What do I do and What have I done?
 
