@@ -2,7 +2,7 @@
 
 👋🏾 Hi, this is Brandon, a backend developer.
 
-🌱 Currently active in organization [Cerana](https://cerana.tech/)****
+🌱 Currently active in organization [Cerana](https://cerana.tech/)
 
 🏫 **Teaching Experience**
 
