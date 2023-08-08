@@ -26,3 +26,8 @@
     - Selected as a finalist for the Best Paper Award and ultimately awarded the Excellent Work Award, securing the second place.
 2. Explored the use of edge AI to improve the lives of the visually impaired through progressive web applications.
     - Accepted and sponsored by NSTC (National Science and Technology Council)
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,firebase,mongodb,mysql,nest,express,nodejs,python)](https://skillicons.dev)
+
+[![Lanznx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanznx)](https://github.com/anuraghazra/github-readme-stats)
