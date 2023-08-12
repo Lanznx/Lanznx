@@ -25,6 +25,7 @@
     - Accepted for presentation ＠TCSE (Taiwan Conference on Software Engineering).
     - Selected as a finalist for the Best Paper Award and ultimately awarded the Excellent Work Award, securing the second place.
 2. Explored the use of edge AI to improve the lives of the visually impaired through progressive web applications.
+    - Leveraged edge artificial intelligence (AI) technology to assist visually impaired individuals in various aspects of their daily lives.
     - Accepted and sponsored by NSTC (National Science and Technology Council)
 
 
