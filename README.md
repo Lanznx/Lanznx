@@ -3,10 +3,10 @@
 💼 **Work Experience**
 
 1. Architecture Research Intern [@Sunbird](https://www.sunbirddcim.com/)
-2. Software Engineer Intern ＠[Advantech](https://www.advantech.com/en)
+2. Software Engineer Intern [＠Advantech](https://www.advantech.com/en)
 3. Research Assistant [@NCCU](https://www.nccu.edu.tw/)
 4. Programming Mentor [@Self-Employed](https://brandon.cerana.tech/%E5%AE%B6%E6%95%99%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
-5. Backend Engineering Intern ＠[iStaging](https://www.istaging.com/zh-tw/)
+5. Backend Engineering Intern [＠iStaging](https://www.istaging.com/zh-tw/)
 
 **🔬 Competition Experience**
 
@@ -42,6 +42,7 @@
 6. Developed personal blogs.
 7. Stylish, an E-Commerence Website for Outfits.
 8. Created "Auto Puncher," a tool for company interns to automatically clock in and out.
+
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,firebase,mongodb,mysql,nest,express,nodejs,python)](https://skillicons.dev)
 
