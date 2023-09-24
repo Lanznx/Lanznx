@@ -36,7 +36,6 @@
 
 1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain).
 2. Zudii, a platform to help users find ideal rental housing quickly.
-3. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), helped dockerization.
 4. Ledger, a sales system designed for small vendors.
 5. HealthElf, an all-in-one health and nutrition management app.
 6. Developed personal blogs.
