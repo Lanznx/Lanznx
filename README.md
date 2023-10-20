@@ -1,12 +1,15 @@
 👋🏾 Hi, this is Brandon, a passionate Software Engineer.
 
+🇹🇼 You can find me on software engineering instagram account [@backend_b__](https://instagram.com/backend_b__?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr)
+
 💼 **Work Experience**
 
-1. Architecture Research Intern [@Sunbird](https://www.sunbirddcim.com/)
-2. Software Engineer Intern [＠Advantech](https://www.advantech.com/en)
-3. Research Assistant [@NCCU](https://www.nccu.edu.tw/)
-4. Programming Mentor [@Self-Employed](https://brandon.cerana.tech/%E5%AE%B6%E6%95%99%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
-5. Backend Engineering Intern [＠iStaging](https://www.istaging.com/zh-tw/)
+1. Software Engineer [@CeranaStudio](https://cerana.tech/)
+2. Architecture Research Intern [@Sunbird](https://www.sunbirddcim.com/)
+3. Software Engineer Intern [＠Advantech](https://www.advantech.com/en)
+4. Research Assistant [@NCCU](https://www.nccu.edu.tw/)
+5. Programming Mentor [@Self-Employed](https://brandon.cerana.tech/%E5%AE%B6%E6%95%99%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
+6. Backend Engineering Intern [＠iStaging](https://www.istaging.com/zh-tw/)
 
 **🔬 Competition Experience**
 
@@ -35,13 +38,15 @@
 💻 ****Project Experience****
 
 1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain).
-2. Zudii, a platform to help users find ideal rental housing quickly.
-4. Ledger, a sales system designed for small vendors.
-5. HealthElf, an all-in-one health and nutrition management app.
-6. Developed personal blogs.
-7. Stylish, an E-Commerence Website for Outfits.
-8. Created "Auto Puncher," a tool for company interns to automatically clock in and out.
-
+2. **Zudii**, a platform to help users find ideal rental housing quickly.
+3. **Ledger**, a sales system designed for small vendors.
+4. **Smart-Bin**, RISC-V Edge ML for Image-Driven Recycling.
+5. **TAI-bot**, a QA platform built for student based on LangChain.
+6. **Reconciliation System**, automate the process of secretariat.
+7. **HealthElf**, an all-in-one health and nutrition management app.
+8. Developed personal **blog**.
+9. **Stylish**, an E-Commerce Website for Outfits.
+10. **Auto Puncher**, a tool for company interns to automatically clock in and out.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,firebase,mongodb,mysql,nest,express,nodejs,python)](https://skillicons.dev)
 
