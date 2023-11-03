@@ -15,7 +15,7 @@
 
 1. 🥇 First-place winner ＠Coding 101 programming competition. 
 2. 🥈 Second-place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html).
-3. 🥈 Second-place winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
+3. 🥈 Merit Award winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
 4. 🎖️ Ranked 11th nationwide ＠[LINE Bot Official Competition](https://contest.bhuntr.com/tw/d1nnsijjhbwkvws64f/winner/).
 
 **📜 Research Experience**
