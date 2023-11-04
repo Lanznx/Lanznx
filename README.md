@@ -16,17 +16,11 @@
 1. 🥇 First-place winner ＠Coding 101 programming competition. 
 2. 🥈 Second-place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html).
 3. 🥈 Merit Award winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
-4. 🎖️ Ranked 11th nationwide ＠[LINE Bot Official Competition](https://contest.bhuntr.com/tw/d1nnsijjhbwkvws64f/winner/).
 
 **📜 Research Experience**
 
 1. Investigating the Influence of Data Architecture on the Performance of Kubernetes-based Applications
-    - Compared 3 different styles of data architecture on Kubernetes and provided reference for planning Kubernetes-based applications.
-    - Accepted for presentation ＠TCSE (Taiwan Conference on Software Engineering).
-    - Merit Award @TCSE
 2. Explored the use of edge AI to improve the lives of the visually impaired through progressive web applications.
-    - Leveraged edge artificial intelligence (AI) technology to assist visually impaired individuals in various aspects of their daily lives.
-    - Accepted and sponsored by NSTC (National Science and Technology Council)
 
 🏫 **Teaching Experience**
 
