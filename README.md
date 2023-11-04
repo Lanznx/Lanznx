@@ -11,13 +11,13 @@
 5. Programming Mentor [@Self-Employed](https://brandon.cerana.tech/%E5%AE%B6%E6%95%99%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
 6. Backend Engineering Intern [＠iStaging](https://www.istaging.com/zh-tw/)
 
-**🔬 Competition Experience**
+**🔬 Awards**
 
 1. 🥇 First-place winner ＠Coding 101 programming competition. 
 2. 🥈 Second-place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html).
 3. 🥈 Merit Award winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
 
-**📜 Research Experience**
+**📜 Publications**
 
 1. Investigating the Influence of Data Architecture on the Performance of Kubernetes-based Applications
 2. Explored the use of edge AI to improve the lives of the visually impaired through progressive web applications.
@@ -29,7 +29,7 @@
 3. Taught basic Python programming for NCCU and CHJH students.
 4. Invited by Ministry of Education as panelist for IGER project forum to provide professors active-learning perspectives on teaching.
 
-💻 ****Project Experience****
+💻 ****Projects****
 
 1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain).
 2. **Zudii**, a platform to help users find ideal rental housing quickly.
