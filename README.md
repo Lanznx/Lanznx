@@ -31,7 +31,7 @@
 
 💻 ****Projects****
 
-1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain).
+1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain), [LangFlow](https://github.com/logspace-ai/langflow)
 2. **Zudii**, a platform to help users find ideal rental housing quickly.
 3. **Ledger**, a sales system designed for small vendors.
 4. **Smart-Bin**, RISC-V Edge ML for Image-Driven Recycling.
