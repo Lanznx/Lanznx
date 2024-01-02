@@ -46,10 +46,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,firebase,mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nest,express,fastapi,django,go,graphql)](https://skillicons.dev)
-
-prometheus
 
 [![Lanznx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanznx)](https://github.com/anuraghazra/github-readme-stats)
