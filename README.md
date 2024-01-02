@@ -46,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nest,express,fastapi,django,go,graphql)](https://skillicons.dev)
 
