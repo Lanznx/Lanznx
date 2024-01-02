@@ -44,6 +44,12 @@
 9. **Stylish**, an E-Commerce Website for Outfits.
 10. **Auto Puncher**, a tool for company interns to automatically clock in and out.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,firebase,mongodb,mysql,nest,express,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nest,express,fastapi,django,go,graphql)](https://skillicons.dev)
+
+prometheus
 
 [![Lanznx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanznx)](https://github.com/anuraghazra/github-readme-stats)
