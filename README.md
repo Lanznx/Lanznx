@@ -31,19 +31,6 @@
 3. Taught basic Python programming for NCCU and CHJH students.
 4. Invited by Ministry of Education as panelist for IGER project forum to provide professors active-learning perspectives on teaching.
 
-💻 ****Projects****
-
-1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain), [LangFlow](https://github.com/logspace-ai/langflow)
-2. **Zudii**, a platform to help users find ideal rental housing quickly.
-3. **Ledger**, a sales system designed for small vendors.
-4. **Smart-Bin**, RISC-V Edge ML for Image-Driven Recycling.
-5. **TAI-bot**, a QA platform built for student based on LangChain.
-6. **Reconciliation System**, automate the process of secretariat.
-7. **HealthElf**, an all-in-one health and nutrition management app.
-8. Developed personal **blog**.
-9. **Stylish**, an E-Commerce Website for Outfits.
-10. **Auto Puncher**, a tool for company interns to automatically clock in and out.
-
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=prometheus,firebase,mongodb,mysql,postgres,redis)](https://skillicons.dev)
