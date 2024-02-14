@@ -4,20 +4,21 @@
 
 💼 **Work Experience**
 
-1. Software Engineer [@CeranaStudio](https://cerana.tech/)
-2. Architecture Research Intern [@Sunbird](https://www.sunbirddcim.com/)
-3. Software Engineer Intern [＠Advantech](https://www.advantech.com/en)
-4. Research Assistant [@NCCU](https://www.nccu.edu.tw/)
-5. Programming Mentor [@Self-Employed](https://brandon.cerana.tech/%E5%AE%B6%E6%95%99%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
-6. Backend Engineering Intern [＠iStaging](https://www.istaging.com/zh-tw/)
+1. Software Engineer Intern @[LINE](https://engineering.linecorp.com/zh-hant/blog)
+2. Software Engineer @[CeranaStudio](https://cerana.tech/)
+3. Architecture Research Intern @[Sunbird](https://www.sunbirddcim.com/)
+4. Software Engineer Intern @[Advantech](https://www.advantech.com/en)
+5. Research Assistant @[NCCU](https://www.nccu.edu.tw/)
+6. Programming Mentor @Self-Employed
+7. Backend Engineering Intern @[iStaging](https://www.istaging.com/zh-tw/)
 
 **🔬 Awards**
 
-1. 🥇 1st place winner @[Andes Awards 2023](https://awards.andestech.com/)
-2. 🥇 1st place winner @NCCU CS Final Year Project Competition
-3. 🥇 1st place winner ＠Coding 101 programming competition
-4. 🥈 2nd place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html)
-5. 🥈 Merit Award winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
+1. (2023) 🥇 1st place winner @[Andes Awards](https://awards.andestech.com/)
+2. (2023) 🥇 1st place winner @NCCU CS Final Year Project Competition
+3. (2023) 🥇 1st place winner ＠Coding 101 programming competition
+4. (2023) 🥈 2nd place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html)
+5. (2023) 🥈 2nd place (Merit Award) winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
 
 **📜 Publications**
 
@@ -31,10 +32,21 @@
 3. Taught basic Python programming for NCCU and CHJH students.
 4. Invited by Ministry of Education as panelist for IGER project forum to provide professors active-learning perspectives on teaching.
 
+💻 **Projects**
+
+1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain), [LangFlow](https://github.com/logspace-ai/langflow)
+2. **Zudii**, a platform to help users find ideal rental housing quickly.
+3. **Ledger**, a sales system designed for small vendors.
+4. **Smart-Bin**, RISC-V Edge ML for Image-Driven Recycling.
+5. **TAI-bot**, a QA bot platform built for student based on LangChain.
+6. **Reconciliation System**, automate the process of secretariat.
+7. **HealthElf**, an all-in-one health and nutrition management app.
+8. Developed personal **blog**.
+9. **Stylish**, an E-Commerce Website for Outfits.
+10. **Auto Puncher**, a tool for company interns to automatically clock in and out.
+ 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=prometheus,firebase,mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nest,express,fastapi,django,go,graphql)](https://skillicons.dev)
-
-[![Lanznx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanznx)](https://github.com/anuraghazra/github-readme-stats)
