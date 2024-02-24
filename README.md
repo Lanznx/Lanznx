@@ -1,4 +1,4 @@
-👋🏾 Hi, this is Brandon, a passionate Software Engineer. Also a contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangFlow](https://github.com/logspace-ai/langflow), [Gravitino](https://github.com/datastrato/gravitino)
+👋🏾 Hi, this is Brandon, a active Software Engineer. Also an passionate contributor of open source software.
 
 🇹🇼 You can find me on software engineering instagram account [@backend_b__](https://instagram.com/backend_b__?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr)
 
