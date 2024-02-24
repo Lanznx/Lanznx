@@ -1,4 +1,4 @@
-👋🏾 Hi, this is Brandon, a passionate Software Engineer.
+👋🏾 Hi, this is Brandon, a passionate Software Engineer. Also a contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangFlow](https://github.com/logspace-ai/langflow), [Gravitino](https://github.com/datastrato/gravitino)
 
 🇹🇼 You can find me on software engineering instagram account [@backend_b__](https://instagram.com/backend_b__?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr)
 
@@ -18,7 +18,7 @@
 2. (2023) 🥇 1st place winner @NCCU CS Final Year Project Competition
 3. (2023) 🥇 1st place winner ＠Coding 101 programming competition
 4. (2023) 🥈 2nd place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html)
-5. (2023) 🥈 2nd place (Merit Award) winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
+5. (2023) 🥈 2nd place (Merit Award) winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
 
 **📜 Publications**
 
@@ -27,23 +27,10 @@
 
 🏫 **Teaching Experience**
 
-1. Instructor of Docker for [GDSC](https://www.facebook.com/gdsc.nccu) ＠National Chengchi University.
+1. Instructor of Docker for [GDSC](https://www.facebook.com/gdsc.nccu) ＠National Chengchi University.
 2. Taught web development for NTU, NCKU, and NCCU students.
 3. Taught basic Python programming for NCCU and CHJH students.
 4. Invited by Ministry of Education as panelist for IGER project forum to provide professors active-learning perspectives on teaching.
-
-💻 **Projects**
-
-1. Contributor of open-source project [JPetStore](https://github.com/mybatis/jpetstore-6), [LangChain](https://github.com/langchain-ai/langchain), [LangFlow](https://github.com/logspace-ai/langflow)
-2. **Zudii**, a platform to help users find ideal rental housing quickly.
-3. **Ledger**, a sales system designed for small vendors.
-4. **Smart-Bin**, RISC-V Edge ML for Image-Driven Recycling.
-5. **TAI-bot**, a QA bot platform built for student based on LangChain.
-6. **Reconciliation System**, automate the process of secretariat.
-7. **HealthElf**, an all-in-one health and nutrition management app.
-8. Developed personal **blog**.
-9. **Stylish**, an E-Commerce Website for Outfits.
-10. **Auto Puncher**, a tool for company interns to automatically clock in and out.
  
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
