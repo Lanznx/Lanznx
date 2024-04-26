@@ -14,11 +14,11 @@
 
 **🔬 Awards**
 
-1. (2023) 🥇 1st place winner @[Andes Awards](https://awards.andestech.com/)
-2. (2023) 🥇 1st place winner @NCCU CS Final Year Project Competition
-3. (2023) 🥇 1st place winner ＠Coding 101 programming competition
-4. (2023) 🥈 2nd place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html)
-5. (2023) 🥈 2nd place (Merit Award) winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
+1. 🥇 1st place winner @[Andes Awards](https://awards.andestech.com/)
+2. 🥇 1st place winner @NCCU CS Final Year Project Competition
+3. 🥇 1st place winner ＠Coding 101 programming competition
+4. 🥈 2nd place winner ＠[Hackathon organized by TSMC](https://www.tsmc.com/static/english/careers/2023Careerhack/index.html)
+5. 🥈 2nd place (Merit Award) winner ＠[TCSE](https://tcse2023.seat.org.tw/home) English Session Paper
 
 **📜 Publications**
 
