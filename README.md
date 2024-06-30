@@ -25,12 +25,6 @@
 1. Investigating the Influence of Data Architecture on the Performance of Kubernetes-based Applications
 2. Explored the use of edge AI to improve the lives of the visually impaired through progressive web applications.
 
-🏫 **Teaching Experience**
-
-1. Instructor of Docker for [GDSC](https://www.facebook.com/gdsc.nccu) ＠National Chengchi University.
-2. Taught web development for NTU, NCKU, and NCCU students.
-3. Taught basic Python programming for NCCU and CHJH students.
-4. Invited by Ministry of Education as panelist for IGER project forum to provide professors active-learning perspectives on teaching.
  
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,k8s,nginx,rabbitmq)](https://skillicons.dev)
 
