@@ -4,13 +4,14 @@
 
 💼 **Work Experience**
 
-1. Software Engineer Intern @[LINE](https://engineering.linecorp.com/zh-hant/blog)
-2. Software Engineer @[CeranaStudio](https://cerana.tech/)
-3. Architecture Research Intern @[Sunbird](https://www.sunbirddcim.com/)
-4. Software Engineer Intern @[Advantech](https://www.advantech.com/en)
-5. Research Assistant @[NCCU](https://www.nccu.edu.tw/)
-6. Programming Mentor @Self-Employed
-7. Backend Engineering Intern @[iStaging](https://www.istaging.com/zh-tw/)
+1. Software Engineer @[LINE](https://engineering.linecorp.com/zh-hant/blog)
+2. Software Engineer Intern @[LINE](https://engineering.linecorp.com/zh-hant/blog)
+3. Software Engineer @[CeranaStudio](https://cerana.tech/)
+4. Architecture Research Intern @[Sunbird](https://www.sunbirddcim.com/)
+5. Software Engineer Intern @[Advantech](https://www.advantech.com/en)
+6. Research Assistant @[NCCU](https://www.nccu.edu.tw/)
+7. Programming Mentor @Self-Employed
+8. Backend Engineering Intern @[iStaging](https://www.istaging.com/zh-tw/)
 
 **🔬 Awards**
 
